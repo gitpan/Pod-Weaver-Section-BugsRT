@@ -1,7 +1,7 @@
 package Pod::Weaver::Section::BugsRT;
-our $VERSION = '0.50';
+our $VERSION = '0.51';
 
-# ABSTRACT: Add a BUGS pod section
+# ABSTRACT: Add a BUGS pod section for rt.cpan.org
 
 use Moose;
 
@@ -47,11 +47,11 @@ no Moose;
 
 =head1 NAME
 
-Pod::Weaver::Section::BugsRT - Add a BUGS pod section
+Pod::Weaver::Section::BugsRT - Add a BUGS pod section for rt.cpan.org
 
 =head1 VERSION
 
-version 0.50
+version 0.51
 
 =head1 SYNOPSIS
 
@@ -79,6 +79,14 @@ This software is copyright (c) 2010 by Michael Schout.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
+
+=head1 SOURCE
+
+You can contribute or fork this project via github:
+
+http://github.com/mschout/pod-weaver-section-bugsrt
+
+ git clone git://github.com/mschout/pod-weaver-section-bugsrt.git
 
 =head1 BUGS
 

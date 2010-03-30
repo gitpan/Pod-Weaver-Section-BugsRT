@@ -19,9 +19,9 @@ my %WriteMakefileArgs = (
                                                },
                        'AUTHOR' => 'Michael Schout <mschout@cpan.org>',
                        'BUILD_REQUIRES' => {},
-                       'ABSTRACT' => 'Add a BUGS pod section',
+                       'ABSTRACT' => 'Add a BUGS pod section for rt.cpan.org',
                        'EXE_FILES' => [],
-                       'VERSION' => '0.50',
+                       'VERSION' => '0.51',
                        'PREREQ_PM' => {
                                         'Module::Signature' => '0',
                                         'Test::More' => '0',

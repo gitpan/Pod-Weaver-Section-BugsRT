@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Pod-Weaver-Section-BugsRT, version
-0.50:
+0.51:
 
-  Add a BUGS pod section
+  Add a BUGS pod section for rt.cpan.org
 
 This software is copyright (c) 2010 by Michael Schout.
 
