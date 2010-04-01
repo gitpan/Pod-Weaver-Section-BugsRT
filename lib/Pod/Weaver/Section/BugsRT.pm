@@ -1,5 +1,5 @@
 package Pod::Weaver::Section::BugsRT;
-our $VERSION = '0.51';
+$Pod::Weaver::Section::BugsRT::VERSION = '0.52';
 
 # ABSTRACT: Add a BUGS pod section for rt.cpan.org
 
@@ -51,7 +51,7 @@ Pod::Weaver::Section::BugsRT - Add a BUGS pod section for rt.cpan.org
 
 =head1 VERSION
 
-version 0.51
+version 0.52
 
 =head1 SYNOPSIS
 
